@@ -1,16 +1,3 @@
-Gizlilik ve Güvenlik Politikası
-Privacy and Security Policy
 
 Uygulamamız, çeşitli amaçlarla kişisel veriler toplamaz.
 En: Our app does not collect personal data for various purposes.
-
-Uygulamamız, gizli bilgileri kesinlikle özel ve gizli tutmayı, bunu bir sır saklama yükümü olarak addetmeyi ve gizliliğin sağlanması ve sürdürülmesi, gizli bilginin tamamının veya herhangi bir kısmının kamu alanına girmesini veya yetkisiz kullanımını veya üçüncü bir kişiye ifşasını önlemek için gerekli tüm tedbirleri almayı ve gerekli özeni göstermeyi taahhüt etmektedir.
-En: Our application is to keep confidential information strictly private and confidential, to consider it a confidentiality obligation and to take all necessary precautions and diligence to ensure and maintain confidentiality, to prevent all or any part of confidential information from entering the public domain or unauthorized use or disclosure to a third party. commits to show
-
-E-POSTA GÜVENLİĞİ (EMAIL SECURITY)
-Uygulama kullanıcılarının Hizmetleri’ne, herhangi bir öneri/istek/şikayet ilgili olarak göndereceğiniz e-postalarda, asla kredi kartı numaranızı veya şifrelerinizi yazmayınız.
-En: Never write your credit card number or passwords in the e-mails you send to the Services of the application users regarding any suggestions/requests/complaints.
-
-TARAYICI ÇEREZLERİ (BROWSER COOKIES)
-Bu uygulama Tarayıcı Çerezlerini kullanmaz. İzleme Amaçlı veri toplamaz.
-Eng: This app does not use Browser Cookies. It does not collect data for monitoring purposes.
